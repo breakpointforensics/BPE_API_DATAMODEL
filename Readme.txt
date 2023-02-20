@@ -17,7 +17,7 @@ options:
                         
 The JF mode is the prefered option at this time and fully functional.                        
 Example:
-BFIP4Griffeye.exe -v -JF "C:/Users/David/Desktop/Sample.json"
+BFIP4Griffeye.exe -v -JF "C:/Users/David/Desktop/exampleapifile.json"
 
 The use of '-v' enabled verbose messaging(optional).
 -JF specifies the JSON data is contained in a file that will be read into BPE
