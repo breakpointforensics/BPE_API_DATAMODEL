@@ -1,5 +1,5 @@
 {
-    "@odata.context": "https://github.com/breakpointforensics/BPE_API_DATAMODEL/new/main",
+    "@odata.context": "https://github.com/breakpointforensics/BPE_API_DATAMODEL",
     "global_api_OPTS":{
         "bpe_co_multicarve":true
     },
