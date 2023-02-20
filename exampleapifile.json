@@ -1,7 +1,7 @@
 {
     "@odata.context": "https://github.com/breakpointforensics/BPE_API_DATAMODEL",
     "global_api_OPTS":{
-        "bpe_co_multicarve":true
+        "bpe_co_multicarve_threads":4
     },
     "sources":{
         "D:\\Cases\\MYExample_CaseFolder\\HDD1.E01":{
