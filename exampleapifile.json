@@ -29,6 +29,7 @@
             "bpeFT_archive":true,
             "bpe_co_livefiles":true,
             "bpe_co_unallocated":true,
+            "bpe_co_unallocated_apfs":true,
             "bpe_co_vss":true,
             "BPE_unpack_archives":true,
             "prec_co_bf":false,
