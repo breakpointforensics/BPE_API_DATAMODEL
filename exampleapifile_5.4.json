@@ -1,0 +1,68 @@
+{
+    "@odata.context": "https://github.com/breakpointforensics/BPE_API_DATAMODEL",
+    "global_api_OPTS":{
+        "bpe_co_multicarve_threads":4
+    },
+    "sources":{
+        "D:\\Cases\\MYExample_CaseFolder\\HDD1.E01":{
+            "index":"Source1",
+            "sourceID":"HDD1",
+            "processing_mode":"Breakpoint Processing Engine",
+            "bpeFT_images":true,
+            "bpeFT_videos":true,
+            "bpeFT_documents":true,
+            "bpeFT_pdf":true,
+            "bpeFT_archive":true,
+            "bpeFT_sqlite":true,
+	          "bpe_co_livefiles":true,
+            "bpe_co_embedded_sqlite":true,
+            "bpe_co_unallocated":true,
+            "bpe_co_unallocated_apfs":true,
+            "bpe_co_vss":true,
+            "bpe_unpack_archives":true,
+            "prec_co_bf":false,
+            "outputPath":"D:\\Griffeye Cases\\SampleCaseCarvedOutput",
+            "caseID":"2023-12344321"
+        },
+        "D:\\Cases\\MYExample_CaseFolder\\DI_Training.E01":{
+            "index":"Source2",
+            "sourceID":"DI_Training",
+            "processing_mode":"Breakpoint Processing Engine",
+            "bpeFT_images":true,
+            "bpeFT_videos":true,
+            "bpeFT_documents":true,
+            "bpeFT_pdf":true,
+            "bpeFT_archive":true,
+            "bpeFT_sqlite":true,
+	          "bpe_co_livefiles":true,
+            "bpe_co_embedded_sqlite":true,
+            "bpe_co_unallocated":true,
+            "bpe_co_unallocated_apfs":true,
+            "bpe_co_vss":true,
+            "bpe_unpack_archives":true,
+            "prec_co_bf":false,
+            "outputPath":"D:\\Griffeye Cases\\SampleCaseCarvedOutput",
+            "caseID":"2023-12344321"
+        },
+	"D:\\Cases\\MYExample_CaseFolder\\Test APFS.dmg":{
+            "index":"Source3",
+            "sourceID":"APFSDrive",
+            "processing_mode":"Breakpoint Processing Engine",
+            "bpeFT_images":true,
+            "bpeFT_videos":true,
+            "bpeFT_documents":true,
+            "bpeFT_pdf":true,
+            "bpeFT_archive":true,
+            "bpeFT_sqlite":true,
+	          "bpe_co_livefiles":true,
+            "bpe_co_embedded_sqlite":true,
+            "bpe_co_unallocated":true,
+            "bpe_co_unallocated_apfs":true,
+            "bpe_co_vss":true,
+            "bpe_unpack_archives":true,
+            "prec_co_bf":false,
+            "outputPath":"D:\\Griffeye Cases\\SampleCaseCarvedOutput",
+            "caseID":"2023-12344321"
+        }
+    }
+}
